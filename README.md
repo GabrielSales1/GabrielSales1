@@ -1,27 +1,26 @@
-# Bem-vindo ao meu perfil do GitHub! 👋
 
-Meu nome é Gabriel Sales e sou um desenvolvedor apaixonado por tecnologia. Trabalho principalmente com as seguintes linguagens e tecnologias:
+### Olá! Meu chamo Gabriel👋
 
-- **JavaScript**: Sou apaixonado por JavaScript e o utilizo tanto no lado do cliente (front-end) quanto no servidor (back-end).
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-sales-464244278/)
+[![Linkedin](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gabriel.html_/)
+[![Linkedin](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/gabbluepen)
 
-- **PHP**: Tenho experiência básica em desenvolvimento de aplicativos web com PHP e criação de sistemas simples.
+![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielSales1&show_icons=true&theme=vue)
 
-- **HTML & CSS**: Fundamentais para a criação de interfaces web. Estou sempre procurando maneiras de aprimorar meu domínio dessas tecnologias.
+## Tecnologias que uso no diariamente no meu dia
 
-- **React**: Tenho conhecimentos básicos em React e estou sempre em busca de aprimorar minhas habilidades em desenvolvimento de interfaces de usuário reativas e eficazes.
+<div style="display: inline_block"><br>
+    <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" >
+    <img align="center" alt="spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+    <img align="center" alt="hibernate" src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white" >
+    <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" >
+    <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+    <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+    <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+</div><br/>
 
-### Meu GitHub em Números
+Amante de tecnologias e curioso para novas coisas que estão por vir!
 
-- 📚 Atualmente, estou trabalhando em diversos projetos pessoais e de código aberto para aprimorar minhas habilidades.
+# E-mail para contato
 
-- 🛠️ Tenho um forte compromisso com a qualidade do código e estou sempre buscando aprender novas técnicas e melhores práticas.
-
-### Como me encontrar
-
-Você pode me encontrar nas redes sociais:
-
-- LinkedIn: (https://www.linkedin.com/in/gabriel-sales-464244278/)
-
-Sinta-se à vontade para explorar meus repositórios, contribuições e entrar em contato. Adoro colaborar e trocar conhecimentos com outros desenvolvedores.
-
-Muito obrigado por visitar meu perfil! 😊
+### gabrielsalesaraujo12@gmail.com
